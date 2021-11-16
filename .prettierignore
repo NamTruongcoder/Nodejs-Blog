@@ -1,0 +1,5 @@
+/.husky/
+/.next/
+/out/
+/.vscode/
+node_modules
